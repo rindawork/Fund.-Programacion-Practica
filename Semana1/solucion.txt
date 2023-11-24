@@ -1,0 +1,8 @@
+//Crea un algoritmo que imprima el area de un circulo. El programa debe de preguntar el radio al usuario
+    Console.Write("Introduzca el radio del circulo: ");
+    
+    double.TryParse(Console.ReadLine(),out double radio);
+    double area = Math.PI * Math.Pow(radio,2);
+
+    Console.WriteLine(area);
+    
