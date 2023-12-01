@@ -1,0 +1,31 @@
+//Desarolle un programa que reciba un entero por teclado, de acuerdo a la cantidad recibida calcular el promedio del numero de notas recibidas
+
+// Console.WriteLine("Introduzca la cantidad de notas");
+// int.TryParse(Console.ReadLine(),out int amount);
+
+// int notas = 0;
+// for (int i = 0; i < amount; i++)
+// {
+//     Console.Write($"Introduzca la nota {i+ 1}: ");
+//     int.TryParse(Console.ReadLine(),out int number);
+//     notas += number;
+// }
+// Console.WriteLine($"Promedio de las notas es {notas/amount}");
+
+
+////Hacer un programa que ingrese por teclado dos numeros de dos digitos y la suma de los dos digitos es mayor de 50 que diga Hola Gary y si la suma no es mayor de 50, debe decir "Adios Ninel"
+
+// Console.WriteLine("Introduzca el primer numero");
+// int.TryParse(Console.ReadLine(),out int n1);
+// Console.WriteLine("Introduzca el segundo numero");
+// int.TryParse(Console.ReadLine(),out int n2);
+
+// if (n1/10 < 1 ||n1/10 > 9  || n2/10 < 1 || n2/10 > 9){
+//     Console.WriteLine("Los numeros deben ser de 2 digitos");
+// }else{
+//     if(n1 + n2 > 50){
+//     Console.WriteLine("Hola Gary!!!");
+// }else{
+//     Console.WriteLine("Adios Ninel");
+    
+// }}
